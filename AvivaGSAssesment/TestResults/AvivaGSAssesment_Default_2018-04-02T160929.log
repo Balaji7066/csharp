@@ -1,0 +1,155 @@
+﻿2018-04-02T15:16:53.5414570+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-02T15:16:53.7494778+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-02T15:16:53.7504779+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+2018-04-02T15:16:53.7504779+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-02T15:17:01.8332861+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-02T15:17:01.8342862+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+2018-04-02T15:17:03.9837201+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\abhibehe\Documents\Visual%20Studio%202015\Projects\AvivaGSAssesment\TestResults\AvivaGSAssesment_Default_2018-04-02T151653.log
+2018-04-02T15:17:03.9837201+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-02T15:17:34.4407941+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-02T15:17:34.4497950+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-02T15:17:34.4497950+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+2018-04-02T15:17:34.4507951+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-02T15:17:47.4560955+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-02T15:17:47.4580957+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+2018-04-02T15:17:49.1595286+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\abhibehe\Documents\Visual%20Studio%202015\Projects\AvivaGSAssesment\TestResults\AvivaGSAssesment_Default_2018-04-02T151734.log
+2018-04-02T15:17:49.1595286+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-02T15:41:17.6312075+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-02T15:41:17.6468076+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-02T15:41:17.6468076+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+2018-04-02T15:41:17.6468076+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-02T15:41:26.6187047+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-02T15:41:26.6187047+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+2018-04-02T15:41:28.1995270+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\abhibehe\Documents\Visual%20Studio%202015\Projects\AvivaGSAssesment\TestResults\AvivaGSAssesment_Default_2018-04-02T154117.log
+2018-04-02T15:41:28.1995270+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-02T16:06:08.1659654+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-02T16:06:08.1749654+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-02T16:06:08.1749654+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+2018-04-02T16:06:08.1749654+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-02T16:06:13.1869654+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-02T16:06:13.1889654+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+2018-04-02T16:06:14.6631654+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\abhibehe\Documents\Visual%20Studio%202015\Projects\AvivaGSAssesment\TestResults\AvivaGSAssesment_Default_2018-04-02T160608.log
+2018-04-02T16:06:14.6631654+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-02T16:09:02.7195654+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-02T16:09:02.7351654+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-02T16:09:02.7351654+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+2018-04-02T16:09:02.7351654+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-02T16:09:07.7371654+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2018-04-02T16:09:07.7371654+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+2018-04-02T16:09:09.1587654+05:30;VSTestExecutionThread;Info;Log file: file:///D:\Users\abhibehe\Documents\Visual%20Studio%202015\Projects\AvivaGSAssesment\TestResults\AvivaGSAssesment_Default_2018-04-02T160902.log
+2018-04-02T16:09:09.1587654+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-04-02T16:09:29.5403654+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-04-02T16:09:29.5483654+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-04-02T16:09:29.5493654+05:30;VSTestExecutionThread;Info;SpecRun: running tests in D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+2018-04-02T16:09:29.5493654+05:30;VSTestExecutionThread;Info;Profile: Default
+2018-04-02T16:09:34.5533654+05:30;Thread#16;Info;Discovering target: Default
+2018-04-02T16:09:34.5553654+05:30;Thread#16;Info;Discovering tests from assembly: D:\Users\abhibehe\Documents\Visual Studio 2015\Projects\AvivaGSAssesment\AvivaGSAssesment\bin\Debug\AvivaGSAssesment.dll
+Appdomain Disposed
+Test Suite Dump
+#0: AvivaGSAssesment/Default - 
+#1: Default - 
+#2: AvivaGSAssesment - 
+#3: Searcing Aviva in google - 
+#4: Search Aviva in google and print the 5th link, Aviva - TestAssembly:AvivaGSAssesment/Feature:Searcing+Aviva+in+google/Scenario:Search+Aviva+in+google+and+print+the+5th+link%2c+Aviva
+#5: Seraching with wrong name of Aviva, A3viva - TestAssembly:AvivaGSAssesment/Feature:Searcing+Aviva+in+google/Scenario:Seraching+with+wrong+name+of+Aviva%2c+A3viva
+#6: Seraching with wrong name of Aviva, #^%$%$123Ab - TestAssembly:AvivaGSAssesment/Feature:Searcing+Aviva+in+google/Scenario:Seraching+with+wrong+name+of+Aviva%2c+%23%5e%25%24%25%24123Ab
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for AvivaGSAssesment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\abhibehe\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.7.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 0.1506 seconds
+Thread#0: Test #4/1 is started on thread #0
+Thread#0:T:warning: The previous ScenarioContext was not disposed.
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #4/1 is finished on thread #0 as Failed within 0 seconds
+Thread#0: Test #4/2 is started on thread #0
+Thread#0:T:warning: The previous ScenarioContext was not disposed.
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/2 is finished on thread #0 as Failed within 0 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:T:warning: The previous ScenarioContext was not disposed.
+Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #5/0 is finished on thread #0 as Failed within 0.0156 seconds
+Thread#0: Test #5/1 is started on thread #0
+Thread#0:T:warning: The previous ScenarioContext was not disposed.
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #5/1 is finished on thread #0 as Failed within 0 seconds
+Thread#0: Test #5/2 is started on thread #0
+Thread#0:T:warning: The previous ScenarioContext was not disposed.
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/2 is finished on thread #0 as Failed within 0 seconds
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:T:warning: The previous ScenarioContext was not disposed.
+Cancelling because configured number of failures reached
+Thread#0: Test #6/0 is finished on thread #0 as Failed within 0.0156 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 3 (test executions: 7)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 3
